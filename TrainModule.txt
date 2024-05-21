@@ -1,2 +1,8 @@
-Scenario: Booking a train from chennai to pune
-Scenario: Cancel a train for goa to delhi
+Scenario1: Booking a train from chennai to pune
+Scenario2: Cancel a train for goa to delhi
+
+//by abc
+Scenario3:
+Scenario4:
+
+
