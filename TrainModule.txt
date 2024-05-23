@@ -11,3 +11,7 @@ Scenario: Cancel a train for goa to delhi
 
 Scenario5:
 Scenario6:
+
+//By Naveen in github reository
+Scenario 7:
+Scenario 8:
